@@ -161,6 +161,7 @@ h1 {
 .parameter {
   width: 30%;
   max-width: 200px;
+  min-width: 170px;
   background-color: rgba(219, 226, 239, 0.5);
   border-radius: 5px;
   padding: 1rem;
@@ -243,7 +244,7 @@ h1 {
   text-align: center;
 }
 
-/* Media Queries  */
+/* media query  */
 
 @media (max-width: 680px) {
   .wrapper {
